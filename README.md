@@ -1,3 +1,5 @@
+# Solution of OhceKata
+
 From: http://garajeando.blogspot.com.es/2016/05/the-ohce-kata-short-and-simple-exercise.html
 
 **ohce** is a console application that echoes the reverse of what you input through the console.
